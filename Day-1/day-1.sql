@@ -1,3 +1,5 @@
+-- Topics -> Introduction to SQL (comments, database queries, table queries- create, insert, select, drop, truncate)
+
 -- single line comments
 
 /*
