@@ -12,17 +12,6 @@ Designed to help students and beginners build a solid foundation in database man
 # 📌 MySQL & SQL Server Daywise Queries & Exercises 🚀
 ![image](https://github.com/user-attachments/assets/a975594d-3e94-4075-8e13-baeff67a5907)
 
-Designed to help students and beginners build a solid foundation in database management and SQL. 🌟
-
-
-📘 Structured Learning: Progress day by day with clear, organized exercises.
-
-
-🎯 Practical Application: Learn SQL skills for academic, project, and professional needs.
-
-
-💡 Collaborative Space: Share and enhance your knowledge with a growing community.
-
 
 This repository is designed to help students and beginners build a strong foundation in MySQL and SQL queries. Whether you're starting with no prior database experience or looking to refine your skills, this comprehensive guide will take you step by step through SQL fundamentals, advanced queries, and real-world applications.
 
