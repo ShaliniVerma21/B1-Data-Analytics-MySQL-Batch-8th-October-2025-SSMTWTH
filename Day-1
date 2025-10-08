@@ -22,14 +22,14 @@ functionality of the code to other developers.
 -- ---------------------------------------------- Database Queries -----------------------------------------------
 
 -- create a database
-Create database Holycross;
+Create database MyCollege;
 
 -- to work on it, you need to use it first
-use holycross;
+use mycollege;
 
 -- delete database
 -- to execute query(ctrl+enter)
-drop database Holycross;
+drop database Mycollege;
 
 -- SQL is not a case sensitive language, ex- AGE or Age or age will be treated as same word
 
