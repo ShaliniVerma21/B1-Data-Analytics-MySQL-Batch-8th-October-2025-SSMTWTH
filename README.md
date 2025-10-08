@@ -1,11 +1,11 @@
 # B1-Data-Analytics-MySQL-Batch-8th-October-2025-SSMTWTH
 Designed to help students and beginners build a solid foundation in database management and SQL. 
 
-### 📘 Structured Learning: Progress day by day with clear, organized exercises and real-world database tasks.
+##### 📘 Structured Learning: Progress day by day with clear, organized exercises and real-world database tasks.
 
-### 🎯 Practical Application: Gain hands-on SQL skills for academic, project, and professional success.
+##### 🎯 Practical Application: Gain hands-on SQL skills for academic, project, and professional success.
 
-### 💡 Collaborative Space: Engage, share, and grow with a vibrant learning community in Data Analytics and MySQL.
+##### 💡 Collaborative Space: Engage, share, and grow with a vibrant learning community in Data Analytics and MySQL.
 
 
 
